@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appetiser_Exam</string>
+    <string name="artwork">ARTWORK</string>
+    <string name="genre">Genre</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+</resources>
